@@ -2,7 +2,7 @@
 
 Date: 14 November 2026. My question: who is the audience for the three free online sessions, what message fits them, and what goes on a separate landing page (promoted on social media, Berlin newsletters and Telegram; Meetup keeps its own event), primarily for developers in Berlin.
 
-Status: research and draft copy. Nothing was posted, sent or booked. Market size is covered by the parallel market-sizing study; this file is about who and what message. Earlier desk research it builds on: [Berlin market for laid-off developers](https://github.com/alexeygrigorev/research-dump/blob/main/courses/ai-engineering-school-germany/market-berlin-laid-off-devs-2026-11.md).
+Status: research and draft copy. Earlier desk research it builds on: [Berlin market for laid-off developers](https://github.com/alexeygrigorev/research-dump/blob/main/courses/ai-engineering-school-germany/market-berlin-laid-off-devs-2026-11.md).
 
 Method and limits: Reddit and HN threads read on 14 Nov 2026 (quotes verbatim, links below). X and LinkedIn posts were not mined; Reddit was read through web search and direct page fetch. Reddit and HN are anecdotes, not statistics. Numbers come from the linked sources; anything marked [estimate] is our own estimate.
 
@@ -107,4 +107,4 @@ Route: the page went live at `/sessions`.
 
 ## 6. What happened next
 
-The landing copy drafted in the original note is not included here. The reviewed final copy used the dates 23 November, 30 November and 7 December 2026 and the route `/sessions`. The series name became "Hireable With AI".
+ The reviewed final copy used the dates 23 November, 30 November and 7 December 2026 and the route `/sessions`. The series name became "Hireable With AI".

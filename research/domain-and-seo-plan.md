@@ -1,6 +1,6 @@
 # DataTalks.Club Academy: where the school should live, and a first SEO plan
 
-Research only, 15 November 2026. Nothing was purchased. It started from a post about the Morrowen / ChatGPT “AI shelf” experiment and my question about a separate domain and SEO: is it better to stay on datatalks.club?
+Research only, 15 November 2026. It started from a post about the Morrowen / ChatGPT “AI shelf” experiment and my question about a separate domain and SEO: is it better to stay on datatalks.club?
 
 **Update, same day:** after this research I decided to move the academy to `https://datatalks.club/academy/` now, with 301 redirects from `academy.datatalks.club`. The [SEO content plan](seo-content-plan.md) follows that decision. The analysis below is kept as it was.
 
@@ -55,9 +55,7 @@ If one domain is bought later as a redirect, these three are the shortlist. Pref
 - `datatalksacademy.com`: familiar TLD, cheaper to keep than .academy, slightly longer to say. Good if we also want a .com we control.
 - `datatalksacademy.de`: cheapest, useful for German searchers and Berater who type a .de. Needs a German administrative contact at many registrars.
 
-I compared registrar prices (Porkbun, Cloudflare, INWX, Namecheap) on 15 November 2026; I do not publish them here.
-
-Trademark notes, not a legal opinion: `dtcacademy.com` has been registered since 2005, so “DTC Academy” as a standalone .com brand is a poor idea. `datatalks.com` was drop-caught in October 2026 and is sitting on Afternic; it is not a normal new-registration price. `datatalks.de` is already registered by someone else. Using “DataTalks.Club Academy” and a `datatalks.*` redirect extends the existing brand. No EUIPO or DPMA search was filed for this note.
+Trademark notes, not a legal opinion: `dtcacademy.com` has been registered since 2005, so “DTC Academy” as a standalone .com brand is a poor idea. `datatalks.com` was drop-caught in October 2026 and is sitting on Afternic; it is not a normal new-registration price. `datatalks.de` is already registered by someone else. Using “DataTalks.Club Academy” and a `datatalks.*` redirect extends the existing brand. 
 
 ## SEO plan
 
@@ -84,7 +82,7 @@ Work the pages around four intents, in both languages where it is natural:
 3. Audience plus outcome: “KI Weiterbildung für Entwickler”, “AI course for experienced developers Germany”.
 4. Brand and series: “DataTalks.Club Academy”, “Hireable With AI”.
 
-Do not invent a search-volume number where Serpstat had no row. Use Search Console and Keyword Planner (see Tools) once the pages are live to see what actually gets impressions.
+Use Search Console and Keyword Planner (see Tools) once the pages are live to see what actually gets impressions.
 
 ### Who ranks now
 
@@ -125,13 +123,13 @@ Each page should state the facts in a way a language model can quote: who it is 
 
 ### The honest version of the Morrowen tactic
 
-Burke’s test worked for narrow questions, with browsing on, in ChatGPT, after one clear site and one public post, with no fake reviews and no Reddit spam. Claude and Gemini did not name Morrowen. Broad queries (“best”, “cheapest”) did not either.
+Burke’s test worked for narrow questions, with browsing on, in ChatGPT, after one clear site and one public post, with no fake reviews and no Reddit spam. Broad queries (“best”, “cheapest”) did not either.
 
 For a real school, do the same things, and only those things:
 
 - Publish a few factual pages that answer the exact questions people ask, on the known DataTalks.Club property.
 - Write one public post on a property we already have (the DataTalks.Club blog, the newsletter, and a LinkedIn post). Say what the programme is, who it is for, when it starts, and how the voucher is supposed to work once AZAV is done.
-- Get listed in the official directories after certification (KURSNET, mein NOW), and on the comparison sites that already rank (the ones that appeared in today’s baselines: deinbildungsgutschein.de, WBS and Turing blog lists, and similar). That is earned presence, not invented reviews.
+- Get listed in the official directories after certification (KURSNET, mein NOW), and on the comparison sites that already rank (the ones that appeared in today’s baselines: deinbildungsgutschein.de, WBS and Turing blog lists, and similar). 
 - Repeat the three test questions in ChatGPT (browsing on), Perplexity, and Google AI Overviews about three weeks after the pages and the post are live, then again after AZAV listings go up.
 
 Do not buy reviews, do not spam Reddit, do not stand up a second brand that pretends to be older than it is.

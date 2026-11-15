@@ -30,6 +30,6 @@ I posted a call for 20 to 30 minute interviews in a Russian-speaking data scienc
 
 Additions, without rewriting the persona above:
 
-- There is an adjacent QA / tester segment interested in the AI Engineering track.
+- There is an adjacent test engineer segment interested in the AI Engineering track.
 - In at least one Berlin case, the counsellor offers a Bildungsgutschein only after a B2 German exam.
 - People moving from academic ML into industry are another adjacent segment.

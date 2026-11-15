@@ -1,6 +1,6 @@
 # Design of the 3-Month Course (AZAV, Up to +25% Over the B-DKS)
 
-Design from 14 November 2026, checked against the primary sources the same day. Nobody was contacted. I removed all rates, costs and revenue figures from this public version.
+Design from 14 November 2026, checked against the primary sources the same day. 
 
 **The question:** how do we set up a 3-month course so that the certifier approves it at up to +25% over the B-DKS (the BA's standard cost rate)?
 

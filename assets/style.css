@@ -33,6 +33,14 @@ footer p { margin: 0; }
 .prose figcaption { margin-top: .6rem; color: var(--muted); font-size: .85rem; line-height: 1.5; }
 .prose .mobile-capture img { width: min(100%, 390px); margin-inline: auto; }
 .ai-note { margin-top: 2rem; color: var(--muted); font-size: .9rem; }
-html, body { overflow-x: clip; }
-main, .prose { overflow-wrap: anywhere; }
-.prose img, .prose figure { max-width: 100%; }
+
+/* Long research links and media must fit narrow screens. */
+html { overflow-wrap: anywhere; }
+img, video { max-width: 100%; height: auto; }
+main, article, .prose, .site-header > *, nav > * { min-width: 0; }
+a, pre, code { overflow-wrap: anywhere; }
+pre { white-space: pre-wrap; }
+.table-scroll { max-width: 100%; overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: .9rem; }
+th, td { text-align: left; vertical-align: top; padding: .5rem; border-bottom: 1px solid var(--line); }
+.prose figure { max-width: 100%; }

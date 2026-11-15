@@ -1,6 +1,6 @@
 # AZAV Certification Plan (Trägerzulassung and Maßnahmezulassung)
 
-Research from 14 November 2026, based on primary sources (laws, BA, Beirat, ZFU, certifier procedures, Berlin Senate). Nobody was contacted and nothing was submitted. I removed all fees, quotes and prices from this public version, plus private business details.
+Research from 14 November 2026, based on primary sources (laws, BA, Beirat, ZFU, certifier procedures, Berlin Senate). 
 
 The question: how do we get DataTalksClub Academy certified so a Bildungsgutschein can pay for it? How long does it take, does an April 2027 start work, and which legal entity applies?
 
@@ -128,7 +128,7 @@ The total is small compared with one cohort, and much smaller if we build QM in-
 - Why it matters **[Inf]**: if the approved price had to include 19% VAT, the net amount per seat would shrink a lot. With the exemption, input VAT on Academy costs is not deductible.
 - Check with the tax adviser before filing.
 
-## 7. Next steps (nothing was sent)
+## 7. Next steps
 
 1. Confirm the entity and ask the tax adviser about the VAT exemption and separate Academy accounting.
 2. Update the business registration to include training.

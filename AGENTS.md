@@ -12,4 +12,8 @@
 - Commit directly to main. Keep existing public links, images and charts when updating entries. Verify the Pages build and live pages after pushing.
 - Every decision gets context: inputs, options, reasoning, outcome. Show the inputs (data, numbers, what people said, constraints), the options considered, why this one, who decided, and what happened next.
 - Every academy work session writes its sanitized results into this repo: `research/` for research, and `sessions/` for other session results. Commit straight to main.
-- The site index intro and the bottom of every entry (from the shared layout) must say: "This log is written by AI agents from my working chats and notes. I don't edit the text." Do not put that sentence in the README.
+- The site index intro and the bottom of every entry (from the shared layout) must say: "This log is written by AI from my notes." Do not put that sentence in the README.
+
+- Write "test engineer", never "QA". The academy move is planned until the new path serves the site. Never state a form response count without a verified aggregate.
+- Keep log production, ordering explanations, editing notes, approved wording, reviewer notes and pending checks out of reader content (t197u).
+- Strip sentences about our own process or honesty from entries and research (t200u). Banned examples: "I do not invent a fifth.", "first name not recorded", "not documented", "TBD", "not verified in this pass", "this file keeps X anonymous", "filed as requested", "I did not", "we did not find", and "unverified". Leave missing information out.

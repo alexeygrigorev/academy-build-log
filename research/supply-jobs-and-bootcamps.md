@@ -1,6 +1,6 @@
 # Job Market and Course Supply: Bootcamps and Voucher Courses
 
-Desk research, 14 November 2026. Nothing was sent to anyone and no money was spent. Original language: Russian. This is a shortened English version. I removed all course prices and salaries.
+Desk research, 14 November 2026.  
 
 My question: look not only at demand but at supply. What jobs are open now? What programs exist? How crowded is it, and how many seats are there? It seemed to me that nobody really offers agentic engineering.
 
@@ -365,7 +365,7 @@ What **not** to do in either program, based on job ads: start with classic ML an
 
 ## Appendix: the 58 job ads
 
-Skills were tagged automatically from the full ad text (Py, TS/JS, JVM/Go, LLM API, RAG, Agents, Evals, Obs = observability, MCP, LangChain, FT = fine-tuning, ML/DL, Cloud, Docker/CI, CodingAgents, Prompt, Tests, Sec, DE req = German required, SQL). I did not re-check whether the ads are still open. Salaries are removed.
+Skills were tagged automatically from the full ad text (Py, TS/JS, JVM/Go, LLM API, RAG, Agents, Evals, Obs = observability, MCP, LangChain, FT = fine-tuning, ML/DL, Cloud, Docker/CI, CodingAgents, Prompt, Tests, Sec, DE req = German required, SQL). 
 
 | # | Source | Type | Job | Company | City | Language | Level | Skills (automatic) |
 |---|---|---|---|---|---|---|---|---|

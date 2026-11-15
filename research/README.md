@@ -1,6 +1,6 @@
 # Academy Research
 
-This folder has the research I did for the DataTalks.Club Academy: a full-time AI program for experienced developers in Berlin, planned for April 2027. These are cleaned-up copies of my working notes. I removed names of interviewees and respondents, private messages, prices from partners and vendors, budgets, and internal tools and links.
+This folder has the research I did for the DataTalks.Club Academy: a full-time AI program for experienced developers in Berlin, planned for April 2027.  
 
 Most notes are from 13 to 15 November 2026. New research goes here as it happens.
 
@@ -19,8 +19,6 @@ Most notes are from 13 to 15 November 2026. New research goes here as it happens
 - [voucher-course-complaints.md](voucher-course-complaints.md): public Reddit quotes on why experienced developers dislike voucher courses.
 - [berater-objections.md](berater-objections.md): why Berater refuse a Bildungsgutschein and how to talk about it.
 - [testimonials.md](testimonials.md): public quotes from people who took my courses (Maven reviews, blog testimonials, LinkedIn posts).
-
-Survey aggregates: none yet. The waitlist form only collects signups so far. When there is a survey, only aggregates go here.
 
 ## Market Supply
 
@@ -43,8 +41,3 @@ Survey aggregates: none yet. The waitlist form only collects signups so far. Whe
 - Earlier public desk research: [research-dump/courses/ai-engineering-school-germany](https://github.com/alexeygrigorev/research-dump/tree/main/courses/ai-engineering-school-germany).
 - The daily build log: [entries](../entries/).
 
-## What Is Not Here
-
-- Prices and quotes from partners and vendors, ad budgets, and media price lists. Some notes say where a number was removed.
-- Private messages, survey answers from individual people, and screenshots with usernames.
-- Notes on Berlin media and venue options, which are mostly prices and logistics.

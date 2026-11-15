@@ -1,10 +1,8 @@
 # Cost Justification for a Surcharge Above the B-DKS
 
-Research from 14 November 2026, for the course approval (Maßnahmezulassung). I removed all prices, rates and totals from this public version. The full memo with official list prices stays private.
+Research from 14 November 2026, for the course approval (Maßnahmezulassung). 
 
 **The question:** can real, documented costs justify a course price above the B-DKS for KldB 43414, up to the +25% cap that a certifier (FKS) can approve without BA consent?
-
-**The rule I followed:** no invented figures. Where a quantity or a rate is my choice and not a published price, it is marked as an assumption and backed by a market-rate source. Nobody was contacted and nothing was submitted.
 
 This memo is the evidence for special costs. It is not a full cost calculation. My own teaching time belongs in the standard staff block of the Kalkulation, not here; counting it again would double-count it against the B-DKS.
 
@@ -43,7 +41,6 @@ Related: [AZAV certification plan](azav-certification.md), [3-month course desig
 - Apply at most at +25%. If mentoring is lighter, either document a higher AI-tool spend, document the in-person room, or apply with a lower surcharge (around +20%) instead of stretching the hours.
 - The real evidence is not this memo. It is vendor invoices or team quotes for the chosen AI plans, an AWS budget with caps, contracts and CVs for named mentors and backup teachers, Zoom and GitHub invoices, and a room contract if the course is in person.
 - Ask the certifier whether ordinary software (Zoom, GitHub) can count, whether a standby retainer is accepted without actual substitution hours, and whether they want the Kalkulation on 12 seats, on 15 to 20, or both.
-- Do not invent more cost lines to close a gap.
 
 ## Public sources used
 

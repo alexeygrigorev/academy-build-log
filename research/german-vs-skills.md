@@ -1,16 +1,14 @@
 # Academy: German versus skills in Berlin tech (November 2026)
 
-Date: 15 November 2026. Status: desk research and draft messaging. Nothing here is approved landing copy, and I did not contact anyone for it. This is not legal advice. For a live case, the participant should rely on their Agentur für Arbeit, on [Merkblatt 6](https://www.arbeitsagentur.de/datei/merkblatt-6-weiterbildung_ba015381.pdf), and if needed on independent advice.
+Date: 15 November 2026. Status: desk research and draft messaging. This is not legal advice. For a live case, the participant should rely on their Agentur für Arbeit, on [Merkblatt 6](https://www.arbeitsagentur.de/datei/merkblatt-6-weiterbildung_ba015381.pdf), and if needed on independent advice.
 
-Triggered by two anonymized interviews on 15 November 2026: a data scientist / former ML engineer in Berlin whose Agentur told her to improve her German rather than take extra qualification courses ([interviews](interviews.md)), and an academic ML researcher who wants to move to industry and described the Agentur as uninterested ([interviews](interviews.md)). This matches the later Berater of a QA / tester we interviewed, who put a B2 exam before Weiterbildung ([interviews](interviews.md)). Builds on [Berater refusals](berater-objections.md), [laid-off developers and the Agentur](laid-off-developers-and-agentur.md) and [the AZAV ops plan](azav-certification.md).
+Triggered by two anonymized interviews on 15 November 2026: a data scientist / former ML engineer in Berlin whose Agentur told her to improve her German rather than take extra qualification courses ([interviews](interviews.md)), and an academic ML researcher who wants to move to industry and described the Agentur as uninterested ([interviews](interviews.md)). This matches the later Berater of a test engineer we interviewed, who put a B2 exam before Weiterbildung ([interviews](interviews.md)). Builds on [Berater refusals](berater-objections.md), [laid-off developers and the Agentur](laid-off-developers-and-agentur.md) and [the AZAV ops plan](azav-certification.md).
 
 The messaging brief was: "in Berlin tech, German is not the blocker; AI skills are", plus "what to do when the Berater sends you to German instead". The job-market numbers below support the first half for startup and AI-developer hiring. Official BA guidance still often treats B2 German as the usual entry level for Weiterbildung. Public copy must not erase that tension, and must not promise a job or a voucher.
 
 ---
 
 ## 1. Interview datapoints (15 November 2026)
-
-Both people are anonymized. First names were not recorded.
 
 1. A data scientist and former ML engineer in Berlin, working part-time at a startup and job hunting. She thinks LLMs, agents and RAG are in demand. The Agentur für Arbeit told her to improve her German rather than take extra qualification courses.
 2. A researcher from academia in machine learning, data science, modelling and optimization, reached through a data science community. She wants to move to industry and so far cannot, and moves between short academic contracts. Her impression: the Agentur is not interested in helping and prefers not to be bothered.
@@ -22,8 +20,6 @@ Possible audience segment, in addition to the core laid-off / at-risk developer 
 ---
 
 ## 2. Statistics
-
-Every figure below has a year and a URL. Figures that are old, narrow, or limited to one job board are marked. Nothing here was invented. Stack Overflow Developer Survey and IAB publications were checked for a Germany or Berlin share of English-only tech ads; no such figure was found in this pass.
 
 ### 2.1 English as a working language and international staff in Berlin startups
 
@@ -84,7 +80,7 @@ These are the live "German first" and "the Agentur is not interested" datapoints
 
 - Berlin data scientist / former ML engineer, 15 November 2026: the Agentur told her to improve her German rather than take extra qualification courses. [Interview note](interviews.md).
 - Academic ML researcher, 15 November 2026: "they are not interested in helping and prefer not to be bothered." [Interview note](interviews.md).
-- QA / tester in Berlin, 14 November 2026: her previous Berater refused a Gutschein at four or five appointments ("big experience, no need to study"). Her new Berater focuses on German first; a voucher is possible only after she passes B2. She wrote letters arguing that the field is changing because of AI and that interviews now require a programming language. Outcome of those letters is not recorded. [Interview note](interviews.md).
+- test engineer in Berlin, 14 November 2026: her previous Berater refused a Gutschein at four or five appointments ("big experience, no need to study"). Her new Berater focuses on German first; a voucher is possible only after she passes B2. She wrote letters arguing that the field is changing because of AI and that interviews now require a programming language. [Interview note](interviews.md).
 
 ### 3.2 Verified public quotes
 

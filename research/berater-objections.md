@@ -1,8 +1,8 @@
 # Academy: Berater refusals and how to talk about them (November 2026)
 
-Date: 14 November 2026. Status: desk research and proposed wording. Nothing here is approved landing copy, and I did not contact anyone for it. This is not legal advice. For a live case, the participant should rely on their Agentur für Arbeit, on [Merkblatt 6](https://www.arbeitsagentur.de/datei/merkblatt-6-weiterbildung_ba015381.pdf), and if needed on independent advice.
+Date: 14 November 2026. Status: desk research and proposed wording. This is not legal advice. For a live case, the participant should rely on their Agentur für Arbeit, on [Merkblatt 6](https://www.arbeitsagentur.de/datei/merkblatt-6-weiterbildung_ba015381.pdf), and if needed on independent advice.
 
-Triggered by a discovery interview with a QA / tester in Berlin on 14 November 2026: [interviews](interviews.md). Builds on [laid-off developers, Agentur and reachability](laid-off-developers-and-agentur.md), [market sizing](market-sizing.md), [the 3-month design](three-month-course-design.md) and [the AZAV ops plan](azav-certification.md).
+Triggered by a discovery interview with a test engineer in Berlin on 14 November 2026: [interviews](interviews.md). Builds on [laid-off developers, Agentur and reachability](laid-off-developers-and-agentur.md), [market sizing](market-sizing.md), [the 3-month design](three-month-course-design.md) and [the AZAV ops plan](azav-certification.md).
 
 Primary sources only for legal rules. Community stories and vendor guides are labelled as such and are not treated as law.
 
@@ -10,7 +10,7 @@ Primary sources only for legal rules. Community stories and vendor guides are la
 
 ## 1. The conversion risk
 
-The QA / tester we interviewed has about 10 years of experience. At 4 or 5 appointments her previous Berater refused a Bildungsgutschein, saying she does not need training: big experience, no need to study. She also heard "in our Agentur we don't give Gutscheine", a claim that she needed 5 years of work in Germany (she already had that), and then that she did not pay enough taxes. Her new Berater wants German first, then Weiterbildung. In her experience, vouchers are rarely given at the Arbeitsagentur. She suggested trying the Jobcenter as well.
+The test engineer we interviewed has about 10 years of experience. At 4 or 5 appointments her previous Berater refused a Bildungsgutschein, saying she does not need training: big experience, no need to study. She also heard "in our Agentur we don't give Gutscheine", a claim that she needed 5 years of work in Germany (she already had that), and then that she did not pay enough taxes. Her new Berater wants German first, then Weiterbildung. In her experience, vouchers are rarely given at the Arbeitsagentur. She suggested trying the Jobcenter as well.
 
 People she knows who did get a voucher were unhappy with the courses (huge classes, nobody checks the learning, people sit out the hours). That is a quality problem, not a substitute for an honest warning about approval.
 
@@ -82,7 +82,7 @@ I have not found, in § 81, in the FW FbW or in Merkblatt 6:
 
 If a Berater uses one of these lines, the useful response is to ask for the legal basis, file a written application, and request a written Bescheid. Do not tell the participant that the refusal is automatically unlawful. We are not in a position to decide that.
 
-A language exam before Weiterbildung, as in the QA interview (B2 first), is what her Berater is doing. It is not a general statutory condition sourced here.
+A language exam before Weiterbildung, as in the test engineer interview (B2 first), is what her Berater is doing. It is not a general statutory condition sourced here.
 
 ---
 
@@ -151,7 +151,7 @@ We can also walk the participant through Merkblatt 6 and the appointment. We can
 2. Who drafts and reviews the participant letter and the Berater one-pager (we ourselves or an external adviser)? The pack must stay accurate and must not be filed by us on the participant's behalf.
 3. Exact Bildungsangebot fields: Maßnahmenummer, start and end dates, UE, KldB, price, teaching language, online or hybrid, and copies of both certificates.
 4. Will Berlin Vermittler accept an English-taught, live online or hybrid 3-month Anpassungsqualifizierung for this audience? The ops plan notes that English teaching is allowed, but the Vermittler still judges job prospects. Any wording needed on region or language?
-5. How should operators handle a Berater who postpones Weiterbildung until a language exam (B2 in the QA interview)? Is there a formal requirement we should document, or is this local practice?
+5. How should operators handle a Berater who postpones Weiterbildung until a language exam (B2 in the test engineer interview)? Is there a formal requirement we should document, or is this local practice?
 6. After an oral refusal: how far do we help with a written Antrag, a Bescheid request or a Widerspruch (document pack only, or a referred adviser)? We must not overstep into unauthorised legal practice.
 7. Who maintains the job-posting list, how often, and for which region? The same list may be asked for by the fachkundige Stelle and by a Vermittler.
 8. Do we want a separate employer pack for § 82 / Qualifizierungschancengesetz (including a Sammelantrag path), or is that later than the first cohort?

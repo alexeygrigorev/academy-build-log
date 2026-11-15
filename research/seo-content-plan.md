@@ -33,7 +33,7 @@ There is no `/academy/bildungsgutschein/de/` and no English duplicate of the vou
 
 ## Target keywords
 
-This is the list of keywords that matter for us. Volumes are monthly averages from Serpstat's German Google database (`g_de`), pulled on 15 November 2026. "Unknown" means Serpstat had no row for that exact query, not that nobody searches it. Do not invent a volume. Berlin-specific volumes are unknown: this check had no Berlin database, only Germany. A query like "bildungsgutschein berlin" still has a Germany volume (140); that is not a Berlin-only figure.
+This is the list of keywords that matter for us. Volumes are monthly averages from Serpstat's German Google database (`g_de`), pulled on 15 November 2026. "Unknown" means Serpstat had no row for that exact query, not that nobody searches it. Berlin-specific volumes are unknown: this check had no Berlin database, only Germany. A query like "bildungsgutschein berlin" still has a Germany volume (140); that is not a Berlin-only figure.
 
 Google Keyword Planner was not available in this check. Re-check volumes in Keyword Planner and Search Console once the pages are live.
 
@@ -138,7 +138,7 @@ When the certificates are in:
 
 - Put the Maßnahmenummer on the German Bildungsgutschein page.
 - List both measures on KURSNET and mein NOW. These are how many Berater and comparison sites discover a course.
-- Ask to be included on the comparison pages that already rank in the 15 November baseline (deinbildungsgutschein.de, WBS and Turing lists, and similar). That is earned presence, not invented reviews.
+- Ask to be included on the comparison pages that already rank in the 15 November baseline (deinbildungsgutschein.de, WBS and Turing lists, and similar). 
 - Re-run the three AI-search questions after the listings go up.
 
 ## How we track success

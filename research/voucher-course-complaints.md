@@ -1,6 +1,6 @@
 # Why Experienced Developers Dislike Voucher Courses: Reddit Quotes
 
-Collected on 14 November 2026. These are public Reddit threads. I do not publish the screenshots because they show other people's usernames and avatars. The quotes and links are below. Background: [laid-off developers and the Agentur](laid-off-developers-and-agentur.md).
+Collected on 14 November 2026. These are public Reddit threads.  The quotes and links are below. Background: [laid-off developers and the Agentur](laid-off-developers-and-agentur.md).
 
 | Thread | What people say |
 |---|---|

@@ -1,6 +1,6 @@
 # DataTalks.Club Academy Testimonials
 
-Public quotes for the academy course pages, collected 15 November 2026. Only quotes that people already published themselves are here (Maven reviews, GitHub and DataTalks.Club blog testimonials, LinkedIn posts). Private messages (Slack, email, surveys) are not included.
+Public quotes for the academy course pages, collected 15 November 2026. Only quotes that people already published themselves are here (Maven reviews, GitHub and DataTalks.Club blog testimonials, LinkedIn posts). 
 
 How the tracks map:
 
@@ -8,12 +8,8 @@ How the tracks map:
 - AI Engineering page: start with LLM Zoomcamp, then add Buildcamp quotes that talk about RAG, evaluation, monitoring, and production systems.
 - AI Engineering Buildcamp (Maven) is relevant to both pages.
 
-Rules used while collecting:
-
-- Every quote is verbatim. Spelling and punctuation in the quote are left as the person wrote them.
-- Nothing here was invented or lightly rewritten.
 - Public means the person already published the text (Maven review, GitHub or DataTalks.Club blog testimonial, LinkedIn, blog). Those can go on a page as attributed quotes.
-- Private means Slack, email, or a survey. Those are not published here, and not on any page, until the person agrees.
+
 - Do not promise job placement when using any of these quotes.
 - Three quotes currently shown in the Testimonials block on the Maven Buildcamp page ([from-rag-to-agents](https://maven.com/alexey-grigorev/from-rag-to-agents)) are public posts about LLM Zoomcamp, not Buildcamp: Luis C. S., Ayuna Barlukova, and Elina Nagarnowicz. They are filed under LLM Zoomcamp below.
 
@@ -321,7 +317,7 @@ Other public Maven reviews (not featured here): David, Alena, Manos, Vishnu, Moh
 | Email and Drive | 0 usable graduate testimonials | No testimonial form or feedback sheet turned up |
 | X | 0 strong review posts | Archive search found progress notes and DataTalks.Club announcements, not usable quotes |
 
-Rough public pool for page use: about 36 quotes (6 AI Dev Tools, 12 LLM Zoomcamp, 18 featured Buildcamp). Private Slack messages are not counted here and not published. The six best picks at the top are all public.
+Rough public pool for page use: about 36 quotes (6 AI Dev Tools, 12 LLM Zoomcamp, 18 featured Buildcamp).  
 
 ---
 
