@@ -11,6 +11,7 @@ Most notes are from 13 to 15 November 2026. New research goes here as it happens
 - [laid-off-developers-and-agentur.md](laid-off-developers-and-agentur.md): laid-off developers in Berlin, the Agentur für Arbeit and how many people we can reach.
 - [market-sizing.md](market-sizing.md): market size, audience and signals for the two tracks.
 - [german-vs-skills.md](german-vs-skills.md): how much German matters compared to skills in Berlin tech.
+- [b2-german-rule.md](b2-german-rule.md): the B2 German rule for Bildungsgutschein courses, the exceptions, the Munich case, and how many people in Berlin this leaves.
 
 ## Interviews and Community Signals
 
