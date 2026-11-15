@@ -38,6 +38,7 @@ Most notes are from 13 to 15 November 2026. New research goes here as it happens
 - [domain-and-seo-plan.md](domain-and-seo-plan.md): where the academy site should live, and a first SEO plan with the AI-search baseline.
 - [seo-content-plan.md](seo-content-plan.md): the approved content plan, with the keyword table.
 - [seo-aeo-best-practices.md](seo-aeo-best-practices.md): which SEO, AEO and content practices fit a small new program on datatalks.club, with sources, evidence strength, measurement and what practitioners measured on X.
+- [backlink-plan.md](backlink-plan.md): how datatalks.club catches up with Le Wagon and other bootcamps on links: domain authority, the link gap, placements without competitors, guest appearances, sponsor pages and a plan to 31 March 2027.
 - [marketing-plan.md](marketing-plan.md): the marketing plan until April 2027: funnel math, audience, AI answers, channels, targets and tracking.
 - [facebook-groups.md](facebook-groups.md): Facebook groups where I can tell experienced developers in Germany about the free Hireable With AI sessions.
 - [content-audit.md](content-audit.md): an audit of the academy content: the three free sessions, the academy pages, this log and the newsletter.
