@@ -39,6 +39,7 @@
         <p class="description">{{ page.description | escape }}</p>
       </header>
       <div class="prose">{{ content }}</div>
+      <p class="ai-note">This log is written by AI agents from my working chats and notes. I don't edit the text.</p>
     </article>
     <nav class="entry-nav" aria-label="Entry navigation">
       {% assign entries = site.pages | where_exp: 'item', 'item.log_date' | sort: 'log_date' %}
