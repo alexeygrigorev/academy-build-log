@@ -1,6 +1,6 @@
-# DataTalks.Club Academy Build Log
+# DataTalksClub Academy Build Log
 
-I'm building DataTalks.Club Academy for experienced developers. This log records the decisions and the reasons behind them.
+I'm building DataTalksClub Academy for experienced developers. This log records the decisions and the reasons behind them.
 
 [Read the build log](https://alexeygrigorev.com/academy-build-log/).
 
@@ -16,8 +16,10 @@ GitHub Pages builds this site with Jekyll from the root of `main`. Each daily Ma
 
 To add a day, create `entries/YYYY-MM-DD.md` with `title`, `description`, `log_date` (quoted) and `permalink` in its front matter. The site index and previous/next links update automatically. Keep this README index newest first.
 
-Every entry should link the public artifacts it mentions and include relevant, privacy-safe images. Verify links return 200 or a normal public page without authentication; confirm repositories are public before linking PRs. Use the live canonical academy URL. Do not link private repositories, internal hosts or tools, Hub, or Grok Bot.
+Every entry should link the public artifacts it mentions and include relevant, privacy-safe images. Verify links return 200 or a normal public page without authentication; confirm repositories are public before linking PRs. Use the live canonical academy URL. Do not link private repositories, internal hosts or private tools.
 
 Inspect every image before publishing. Exclude other people's faces, names, avatars, contact details, chats and identifying survey answers; skip interview chats entirely. Aggregate charts are fine. Exclude prices, budgets and internal tools. Crop or blur uncertain areas, and skip anything still in doubt. Capture live pages with a clean headless browser, without reading browser profiles or cookies. Keep raw exports and source screenshots outside the repo. Save approved images as WebP (quality about 80, maximum width 1400) under `assets/images/YYYY-MM-DD/`, with meaningful alt text and captions stating the capture date when it differs from the entry date.
 
 Keep the text privacy filter too: no private identifiers, machine names, emails, tokens, internal URLs, prices or budgets.
+
+Write in Alexey's first-person voice with short sentences and plain words. Use past simple or present only; never use past perfect. Include reasons, anonymized feedback, supported numbers and outcomes so each entry can later become a Substack post. See [AGENTS.md](AGENTS.md) for the writing rules.
