@@ -28,3 +28,7 @@ footer { border-top: 1px solid var(--line); padding-block: 1.5rem 3rem; font-siz
 footer p { margin: 0; }
 .skip { position: absolute; left: -10000px; }
 .skip:focus { left: 1rem; top: 1rem; padding: .5rem; background: white; }
+.prose figure { margin: 2rem 0; }
+.prose img { display: block; max-width: 100%; height: auto; border: 1px solid var(--line); }
+.prose figcaption { margin-top: .6rem; color: var(--muted); font-size: .85rem; line-height: 1.5; }
+.prose .mobile-capture img { width: min(100%, 390px); margin-inline: auto; }
