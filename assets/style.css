@@ -33,3 +33,6 @@ footer p { margin: 0; }
 .prose figcaption { margin-top: .6rem; color: var(--muted); font-size: .85rem; line-height: 1.5; }
 .prose .mobile-capture img { width: min(100%, 390px); margin-inline: auto; }
 .ai-note { margin-top: 2rem; color: var(--muted); font-size: .9rem; }
+html, body { overflow-x: clip; }
+main, .prose { overflow-wrap: anywhere; }
+.prose img, .prose figure { max-width: 100%; }
