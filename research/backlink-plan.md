@@ -11,7 +11,7 @@ Every number below comes from Moz, DataForSEO, Serpstat or the GitHub API, pulle
 ## 1. Summary
 
 - **I will not pass Le Wagon on domain authority by March, and I do not need to.** Le Wagon has 4.5 times my referring root domains in Moz (5,114 against 1,140). But the searches I want are held today by pages on domains with DA 8 to 32. The realistic goal is to pass Turing College (DA 36) and reach DA 37 by 31 March 2027 (target), and to take the academy pages from zero known links to 40 referring domains (target). DA 40 is a target for the second half of 2027.
-- **First, keep the links I already have.** The site moves to a new platform on 21 to 24 November. External sites link to old URLs that end in `.html`. Every old URL needs a 301 to its new address, and the old `academy.datatalks.club` host needs a 301 to `/academy/`. A broken redirect map loses more links than any outreach can win before April.
+- **First, keep the links I already have.** The site moves to a new platform on 21 to 24 November. External sites link to old URLs that end in `.html`. Every old URL needs a single 301 to its new address. A broken redirect map loses more links than any outreach can win before April.
 - **My biggest link asset points at GitHub, not at my site.** The Data Engineering Zoomcamp repo alone has 284 referring domains and 46,897 stars. None of the main course READMEs links to the academy.
 - **The fastest links are small edits to pages that already exist.** Sponsors and tool vendors like Bruin, dltHub, Qdrant, Snowplow, Arize and Evidently already have pages about their work with DataTalksClub. Many past podcast guests list their episode on their own site, but link YouTube instead of the episode page.
 - **The link gap is large, but most of it is not worth chasing.** 2,017 domains link to two or more of seven bootcamps and not to datatalks.club. After removing spam, about 50 named targets are left that I can realistically get.
@@ -250,7 +250,7 @@ Timeline around the migration: 16 to 20 November, prepare and fix internal links
 
 | # | Initiative | Problem it solves | New referring domains (estimate) | Effort | Start |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Migration link protection: 301 every old `.html` URL to its new URL in one hop, and 301 `academy.datatalks.club` to `/academy/` | External links point to old URLs | 0 new; protects the 823 to 1,140 I have | M | 16 Nov |
+| 1 | Migration link protection: 301 every old datatalks.club `.html` URL to its new URL in one hop | External links point to old URLs | 0 new; protects the 823 to 1,140 I have | M | 16 Nov |
 | 2 | Internal links to `/academy/` from the homepage, LLM Zoomcamp and AI Dev Tools Zoomcamp pages, podcast pages, relevant blog posts and the course platform | The academy pages get no authority from the rest of the site | 0, but passes existing authority | S | 16 Nov |
 | 3 | One line about the academy in the LLM Zoomcamp and AI Dev Tools Zoomcamp READMEs | My most visited pages on GitHub do not mention the academy | 5 to 15 (mirror sites) | S | 25 Nov |
 | 4 | Sponsor and vendor page edits: Bruin, dltHub, Qdrant, Snowplow, Arize, Kestra, Evidently, Nebius | Pages about our work together link GitHub or nothing | 5 to 8, strong links | S | 30 Nov |
