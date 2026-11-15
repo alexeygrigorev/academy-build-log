@@ -127,6 +127,7 @@ The total is small compared with one cohort, and much smaller if we build QM in-
 - Freelance teachers can then also invoice without VAT with the provider's confirmation (UStAE 4.21.3 (4)) **[BA]**.
 - Why it matters **[Inf]**: if the approved price had to include 19% VAT, the net amount per seat would shrink a lot. With the exemption, input VAT on Academy costs is not deductible.
 - Check with the tax adviser before filing.
+- An online AVGS coaching provider, [Nemusli GmbH](academy-competitor-nemusli.md), said invoices went unpaid because the company was not exempt from VAT. I need this certificate in place before the first cohort, not after the first invoice.
 
 ## 7. Next steps
 

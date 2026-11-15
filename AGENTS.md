@@ -9,9 +9,9 @@
 - Exclude prices, budgets, internal URLs, tokens, private identifiers and machine names from text and images, except where they appear in a public Reddit post shown as-is. Inspect every image yourself. Crop or blur sensitive content; skip anything still in doubt.
 - Use clean headless browser captures without reading or copying browser profiles or cookies. Keep source captures outside this repo. Save reviewed WebPs at about quality 80, at most 1400 pixels wide, under `assets/images/YYYY-MM-DD/`.
 - Write DataTalksClub without a period. Describe the academy as a full-time live program for experienced developers in Germany, with Agentic Engineering and AI Engineering tracks and an April 2027 first-cohort target. Describe AZAV certification and voucher funding as plans until confirmed. Never promise job placement.
-- Commit directly to main. Keep existing public links, images and charts when updating entries. Verify the Pages build and live pages after pushing.
+- Commit straight to main, no PRs (t215u/t216u). Keep existing public links, images and charts when updating entries. Verify the Pages build and live pages after pushing.
 - Every decision gets context: inputs, options, reasoning, outcome. Show the inputs (data, numbers, what people said, constraints), the options considered, why this one, who decided, and what happened next.
-- Every academy work session writes its sanitized results into this repo: `research/` for research, and `sessions/` for other session results. Commit straight to main.
+- Everything goes into the log without waiting for an ask (t212u): every academy research result, finding, competitor check, decision and conversation outcome goes into that day's entry, with full decision context, links, images and charts, plus a sanitized copy in `research/`.
 - The site index intro and the bottom of every entry (from the shared layout) must say: "This log is written by AI from my notes." Do not put that sentence in the README.
 
 - Write "test engineer", never "QA". The academy move is planned until the new path serves the site. Never state a form response count without a verified aggregate.
