@@ -45,8 +45,8 @@
       {% assign entries = site.pages | where_exp: 'item', 'item.log_date' | sort: 'log_date' %}
       {% for entry in entries %}
         {% if entry.url == page.url %}
-          {% unless forloop.first %}{% assign previous_index = forloop.index0 | minus: 1 %}{% assign previous = entries[previous_index] %}<a href="{{ previous.url | relative_url }}">Previous: {{ previous.log_date }}</a>{% endunless %}
-          {% unless forloop.last %}{% assign next_index = forloop.index0 | plus: 1 %}{% assign next = entries[next_index] %}<a href="{{ next.url | relative_url }}">Next: {{ next.log_date }}</a>{% endunless %}
+          {% unless forloop.first %}{% assign previous_index = forloop.index0 | minus: 1 %}{% assign previous = entries[previous_index] %}<a href="{{ previous.url | relative_url }}">Older: {{ previous.log_date }}</a>{% endunless %}
+          {% unless forloop.last %}{% assign next_index = forloop.index0 | plus: 1 %}{% assign next = entries[next_index] %}<a href="{{ next.url | relative_url }}">Newer: {{ next.log_date }}</a>{% endunless %}
         {% endif %}
       {% endfor %}
     </nav>
