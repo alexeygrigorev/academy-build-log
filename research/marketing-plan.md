@@ -22,7 +22,7 @@ The free "Hireable With AI" Zoom sessions (Mon 23 Nov, Mon 30 Nov, Mon 7 Dec 202
 
 ### 2.2 What "Voucher-Eligible" Means
 
-A waitlist signup counts as voucher-eligible when all five are true: lives in Germany; 2+ years as a developer; unemployed, in a notice period or registered as job seeking; can study full days (Monday to Friday, 09:00 to 16:30) for 3 months; German at B2 or better, or B1 with a German plan. The last point comes from the [B2 German rule research](b2-german-rule.md), section 7.1.
+A waitlist signup counts as voucher-eligible when all four are true: lives in Germany; 2+ years as a developer; unemployed, in a notice period or registered as job seeking; and can study full days (Monday to Friday, 09:00 to 16:30) for 3 months. German level is not part of this definition. Some Arbeitsagentur counsellors may refuse a Bildungsgutschein to people below B2 German, so the waitlist survey still asks German level to measure that risk. See the [B2 German rule research](b2-german-rule.md).
 
 ### 2.3 Sourced Figures Behind the Eligible Share
 
@@ -54,7 +54,7 @@ The ratios come from the [market sizing research](market-sizing.md), section 7.2
 | Confirmed waitlist signups | 20% apply (range 15 to 25%) | about 300 (240 to 400) |
 | Visits to academy pages | 5 to 8% join | about 3,750 to 6,000 |
 
-Added assumption for this plan: 30% of confirmed waitlist signups meet the five voucher-eligible criteria. The waitlist survey asks location, years as a developer, current situation and payment route. German level and "can study full days" join the survey in November, so a measured share replaces the 30% by mid December.
+Added assumption for this plan: 30% of confirmed waitlist signups meet the four voucher-eligible criteria. The waitlist survey asks location, years as a developer, current situation, payment route, whether someone can study full days, and German level. German level is asked to measure voucher-approval risk, not to define the audience. A measured share replaces the 30% by mid December.
 
 ### 2.5 Targets per Month (All Are Targets)
 
@@ -93,13 +93,12 @@ Notes on the table:
 
 | Segment | Who | Why they fit | Voucher outlook | Priority |
 | --- | --- | --- | --- | --- |
-| A. Core | Developers with 2+ years (typically 5 to 15, backend, full stack or data) in Germany who were laid off, are in a notice period or are job hunting, with German at B2 or better, who want an English AI program | [Persona research](persona.md); the B2 guidance does not block them | Normal necessity test at the Agentur | First |
-| B. Same profile, German at B1 | Often internationals in Berlin | Same pain, same skills | Arguable with a German plan running alongside; depends on the adviser ([B2 German rule research](b2-german-rule.md), section 4.2) | Second |
-| C. Adjacent roles | Test engineers, data scientists, ML researchers leaving academia | Three of the four documented interviews ([interview research](interviews.md)) | Same test, plus the refusal pattern for experienced people | Third, mainly AI Engineering |
-| D. Employed developers | Want to upskill, employer or self pay, or § 82 SGB III | Welcome in sessions; about 240 employed people start BA-funded IT training in Berlin per year ([market sizing research](market-sizing.md), section 4) | Small and employer-dependent | Secondary |
-| E. Influencers | Advisers at the Agentur, outplacement firms, community organisers | They decide or steer where vouchers go (build log entry of 15 November 2026) | Not buyers | Parallel track |
+| A. Core | Developers with 2+ years (typically 5 to 15, backend, full stack or data) in Germany who were laid off, are in a notice period or are job hunting, who have good English and want an English AI program, regardless of German level | [Persona research](persona.md) | Some advisers may refuse a Bildungsgutschein to people below B2 German ([B2 German rule research](b2-german-rule.md)) | First |
+| B. Adjacent roles | Test engineers, data scientists, ML researchers leaving academia | Three of the four documented interviews ([interview research](interviews.md)) | Same test, plus the refusal pattern for experienced people | Second, mainly AI Engineering |
+| C. Employed developers | Want to upskill, employer or self pay, or § 82 SGB III | Welcome in sessions; about 240 employed people start BA-funded IT training in Berlin per year ([market sizing research](market-sizing.md), section 4) | Small and employer-dependent | Secondary |
+| D. Influencers | Advisers at the Agentur, outplacement firms, community organisers | They decide or steer where vouchers go (build log entry of 15 November 2026) | Not buyers | Parallel track |
 
-Not my audience: beginners and career changers (the free Zoomcamps are for them), people who want a German-language course (the German page says so and points them elsewhere), and people with German at A2 or below as voucher candidates. That last group is welcome in the free sessions.
+Not my audience: beginners and career changers (the free Zoomcamps are for them), and people who want a German-language course (the German page says so and points them elsewhere).
 
 ### 3.2 Positioning
 
@@ -455,7 +454,7 @@ Primary CTA: "Join the Waitlist" on every academy page and every article. On the
 | Risk | Evidence | What I do |
 | --- | --- | --- |
 | Advisers refuse experienced people | "Ist eine Arbeitsaufnahme auch ohne eine Förderung realistisch, kann kein Bildungsgutschein ausgehändigt werden" ([laid-off developers and Agentur research](laid-off-developers-and-agentur.md)); the [interview research](interviews.md) | Evidence pack, call preparation, refusal log, the January event. No promise of a voucher in any copy |
-| The B2 German guidance | Umsetzungshinweis 2/2026 says "i.d.R. B2" ([B2 German rule research](b2-german-rule.md)) | Target B2+ first. Lead with "taught in English for experienced developers", never with "no German needed". Ask German level on the waitlist survey |
+| The B2 German guidance | Umsetzungshinweis 2/2026 says "i.d.R. B2" ([B2 German rule research](b2-german-rule.md)) | This is a funding risk, not a targeting rule. I target experienced developers with good English, regardless of German level. Some Arbeitsagentur counsellors may refuse a Bildungsgutschein to people below B2 German. Lead with "taught in English for experienced developers", never with "no German needed". Ask German level on the waitlist survey to measure the risk |
 | Too few voucher-eligible signups in Berlin | Reach estimate 12 to 145, middle 53 | Germany-wide online promotion, the German page, KURSNET listing |
 | Berlin funds fewer IT trainings | IT entries in Berlin fell 14.9% in a year | Evidence of local demand in the pack; candidates outside Berlin |
 | Low session turnout | 11 and 12 RSVPs one week before sessions 1 and 2 | Newsletter #303, launch stream mention, Slack, partner shares, a local newsletter listing. Recordings go to everyone who registers |

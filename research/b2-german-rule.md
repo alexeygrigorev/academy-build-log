@@ -8,7 +8,7 @@ Since 10 September 2026, AZAV certifier guidance says participants in funded fur
 
 There is an exception for learning German in parallel. Approval of an English course depends on proving that the field hires in English. As a floor, about 41% of Berlin tech workers have B2+ German, from the [Handpicked Berlin, Salary Trends 2025](https://handpickedberlin.com/salaries/2025/report/) survey, which is self-selected. Our estimate is about 75 to 200 voucher-eligible people in Berlin for 15 seats, counting only the B2+ group.
 
-The first target is experienced developers with B2+ German who want an English AI course, online across Germany. The second group is B1 with a German plan. I do not promise a voucher to people at A2 or below.
+I target experienced developers with good English, online across Germany, regardless of German level. German level is not a targeting criterion. Some Arbeitsagentur counsellors may refuse a Bildungsgutschein to people below B2 German. That is a risk for voucher funding, not a reason to leave anyone out of the audience.
 
 ## 2. The rule and the exceptions
 
@@ -116,7 +116,7 @@ The general participant guide is in [Berater refusals](berater-objections.md). T
 
 ## 6. Decision
 
-I will first target experienced developers with B2+ German who want an English AI course, online across Germany. Then B1 with a German plan. I will not promise a voucher to people at A2 and below. The programme stays in English; I will not teach it in German. If vouchers do not come through, the cohort does not launch.
+I target experienced developers with good English, online across Germany, regardless of German level. German level is not a targeting criterion. Some Arbeitsagentur counsellors may refuse a Bildungsgutschein to people below B2 German. That is a funding risk, not a reason to leave anyone out of the audience. The programme stays in English; I will not teach it in German. I do not promise a voucher to anyone. If vouchers do not come through, the cohort does not launch.
 
 ## Sources
 
