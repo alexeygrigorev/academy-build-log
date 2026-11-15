@@ -1,6 +1,6 @@
 # What Reddit Said About Funding for Experienced Developers
 
-Around 19:10 Europe/Berlin on 15 November 2026 I checked the two discovery threads I posted on 14 November. I left both threads without a comment or a vote. The [15 November entry]({{ '/entries/2026-11-15/' | relative_url }}#what-reddit-said-about-funding-for-experienced-developers) has the same read in the day's log.
+Around 19:10 Europe/Berlin on 15 November 2026 I checked the two discovery threads I posted on 14 November. At that first read I left both threads without a comment or a vote. Later that evening I posted two short replies in the German thread, with no links and no ads. The [15 November entry]({{ '/entries/2026-11-15/' | relative_url }}#what-reddit-said-about-funding-for-experienced-developers) has the same read and the replies in the day's log.
 
 ## r/cscareerquestionsEU
 
@@ -36,7 +36,21 @@ u/Mysteriesquirrel (15 November, 18:48, score 1) said it sounds as if there is n
 
 The useful demand signal is that the Agentur can refuse funding to experienced developers as overqualified. That is a real risk for the assumption that a voucher will cover the course. It matches [Refusals for Experienced People]({{ '/entries/2026-11-15/' | relative_url }}#refusals-for-experienced-people) and the [Berater objections guide](berater-objections.md).
 
-The community is hostile to a voucher-first framing and to short, low-substance AI courses. The strongest question in the thread is what the course concretely gives an experienced developer. Academy copy, and any later reply in the thread, has to lead with the curriculum and what you build, not with funding. That also fits the plan to keep voucher funding in the background until the certificate is in place, and to talk first about the courses that already exist.
+The community is hostile to a voucher-first framing and to short, low-substance AI courses. The strongest question in the thread is what the course concretely gives an experienced developer. Academy copy has to lead with the curriculum and what you build, not with funding. That also fits the plan to keep voucher funding in the background until the certificate is in place, and to talk first about the courses that already exist.
+
+At 19:20 and 19:21 Europe/Berlin I posted two short replies in the German thread. There were no links and no ads. I wanted to collect opinions, not promote a course.
+
+In [the reply to u/0x1C1B](https://www.reddit.com/r/InformatikKarriere/comments/1xw7hup/erfahrene_entwickler_nach_einer_kündigung_was_hat/19soob7tci25f/) I wrote:
+
+> Berechtigter Punkt. Ich möchte ein Programm machen, das erfahrenen Entwicklern wirklich etwas bringt, und frage deshalb, ob das überhaupt sinnvoll ist. Was müsste so ein Kurs bieten, damit er für dich interessant wäre?
+
+In English: fair point. I want to make a program that actually helps experienced developers, so I am asking whether that makes sense. What would such a course need to offer to be interesting for you?
+
+In [the reply to u/MangokidTV](https://www.reddit.com/r/InformatikKarriere/comments/1xw7hup/erfahrene_entwickler_nach_einer_kündigung_was_hat/19sooc339hf1e/) I wrote:
+
+> Danke fürs Teilen und Glückwunsch zum neuen Job! Hast du gegen die Ablehnung Widerspruch eingelegt? Soweit ich weiß, ist der Bildungsgutschein eine Ermessensleistung, aber gegen eine Ablehnung kann man innerhalb eines Monats Widerspruch einlegen, am besten schriftlich mit Begründung. Mich würde interessieren, ob das hier jemand versucht hat und ob es was gebracht hat.
+
+In English: thanks for sharing, and congratulations on the new job. Did you appeal the refusal? As I understand it, a Bildungsgutschein is a discretionary benefit, but you can file a Widerspruch against a refusal, in writing, usually within a month. I would like to know whether anyone here tried that and whether it helped.
 
 The English thread is still in the moderator queue.
 
