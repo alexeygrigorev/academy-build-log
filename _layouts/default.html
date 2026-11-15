@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="{% if page.log_date %}article{% else %}website{% endif %}">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:image" content="{{ '/assets/default-social.png' | absolute_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="DataTalks.Club Academy: Building in public">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title | escape }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
+  <meta name="twitter:image" content="{{ '/assets/default-social.png' | absolute_url }}">
+  <meta name="twitter:image:alt" content="DataTalks.Club Academy: Building in public">
+  {% if page.log_date %}<meta property="article:published_time" content="{{ page.log_date }}T00:00:00+01:00">{% endif %}
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}">DataTalks.Club Academy <span>Build Log</span></a>
+    <nav aria-label="Main navigation"><a href="{{ '/' | relative_url }}">All entries</a> <a href="https://github.com/alexeygrigorev/academy-build-log">GitHub</a></nav>
+  </header>
+  <main id="main">
+    {% if page.log_date %}
+    <article>
+      <header class="entry-header">
+        <p class="eyebrow"><time datetime="{{ page.log_date }}">{{ page.log_date | date: '%-d %B %Y' }}</time></p>
+        <h1>{{ page.title | escape }}</h1>
+        <p class="description">{{ page.description | escape }}</p>
+      </header>
+      <div class="prose">{{ content }}</div>
+    </article>
+    <nav class="entry-nav" aria-label="Entry navigation">
+      {% assign entries = site.pages | where_exp: 'item', 'item.log_date' | sort: 'log_date' %}
+      {% for entry in entries %}
+        {% if entry.url == page.url %}
+          {% unless forloop.first %}{% assign previous_index = forloop.index0 | minus: 1 %}{% assign previous = entries[previous_index] %}<a href="{{ previous.url | relative_url }}">Previous: {{ previous.log_date }}</a>{% endunless %}
+          {% unless forloop.last %}{% assign next_index = forloop.index0 | plus: 1 %}{% assign next = entries[next_index] %}<a href="{{ next.url | relative_url }}">Next: {{ next.log_date }}</a>{% endunless %}
+        {% endif %}
+      {% endfor %}
+    </nav>
+    {% else %}{{ content }}{% endif %}
+  </main>
+  <footer><p>Decisions and reasons, one day at a time.</p><a href="https://datatalks.club/academy/">DataTalks.Club Academy</a></footer>
+</body>
+</html>

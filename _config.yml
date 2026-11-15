@@ -1,0 +1,14 @@
+title: DataTalks.Club Academy Build Log
+description: Building DataTalks.Club Academy in public, with dated decisions and the reasons behind them.
+url: https://alexeygrigorev.github.io
+baseurl: /academy-build-log
+lang: en
+timezone: Europe/Berlin
+markdown: kramdown
+exclude:
+  - README.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

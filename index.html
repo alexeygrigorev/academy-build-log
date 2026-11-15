@@ -1,0 +1,18 @@
+---
+title: Building the Academy in Public
+description: Follow the decisions behind DataTalks.Club Academy, from the first survey to programs for experienced developers.
+---
+<p class="eyebrow">Since November 2026</p>
+<h1>Building the Academy in Public</h1>
+<p class="description">I'm building DataTalks.Club Academy for experienced developers. This is a record of what we decided each day and why.</p>
+<p>Start with the backstory and read forward. New entries appear at the end.</p>
+<ol class="entries">
+{% assign entries = site.pages | where_exp: 'item', 'item.log_date' | sort: 'log_date' %}
+{% for entry in entries %}
+  <li>
+    <time datetime="{{ entry.log_date }}">{{ entry.log_date | date: '%-d %B %Y' }}</time>
+    <h2><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h2>
+    <p>{{ entry.description | escape }}</p>
+  </li>
+{% endfor %}
+</ol>
