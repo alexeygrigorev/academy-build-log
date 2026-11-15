@@ -17,6 +17,7 @@ Most notes are from 13 to 15 November 2026. New research goes here as it happens
 
 - [interviews.md](interviews.md): four discovery interviews, anonymized (roles only).
 - [reddit-discovery.md](reddit-discovery.md): the public Reddit posts I used to find interviewees, and why those subreddits.
+- [reddit-funding-threads.md](reddit-funding-threads.md): what people said on 15 November in those two threads about funding for experienced developers.
 - [voucher-course-complaints.md](voucher-course-complaints.md): public Reddit quotes on why experienced developers dislike voucher courses.
 - [berater-objections.md](berater-objections.md): why Berater refuse a Bildungsgutschein and how to talk about it.
 - [testimonials.md](testimonials.md): public quotes from people who took my courses (Maven reviews, blog testimonials, LinkedIn posts).

@@ -73,3 +73,5 @@ Hier auf Reddit habe ich oft gelesen, dass Kurse über den Bildungsgutschein vor
 Wenn ihr in so einer Situation wart oder seid, würde ich gern eure Erfahrung hören. Seid ihr zur Agentur für Arbeit gegangen? Was wurde euch angeboten? Was hätte euch wirklich geholfen?
 
 Ihr könnt einfach hier antworten. Wer lieber sprechen möchte, ich würde mich auch über ein kurzes Gespräch freuen. Mir geht es vor allem darum, eure Erfahrungen hier im Thread zu lesen.
+
+On 15 November, around 19:10 Europe/Berlin, I checked both threads. The English post was still waiting for moderator approval. The German post had 14 comments. What people said is in [reddit-funding-threads.md](reddit-funding-threads.md).
