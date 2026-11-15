@@ -1,5 +1,6 @@
 # Build Log Writing Rules
 
+- Alexey's instructions about the log are instructions, not content; never turn them into log text. Decide what's worth including from a reader's point of view.
 - Keep the newest entries first. Use one page per day, Title Case titles, and public social preview metadata.
 - Write as Alexey in the first person. Use simple English, short sentences and plain words. Use past simple or present only. Never use past perfect, including "had been" or "had done".
 - Make each entry rich enough to reuse as a Substack post: explain why, include anonymized feedback and supported numbers, and describe what I tried and what happened. Do not invent results.

@@ -4,8 +4,6 @@ I'm building DataTalksClub Academy for experienced developers. This log records 
 
 [Read the build log](https://alexeygrigorev.com/academy-build-log/).
 
-Entries are in reverse chronological order, newest first:
-
 - [15 November 2026: Simple Signup Emails and a Home for the Academy](entries/2026-11-15.md)
 - [14 November 2026: Finding the Audience and Testing Two Tracks](entries/2026-11-14.md)
 - [13 November 2026: Why I'm Starting an Academy](entries/2026-11-13.md)
