@@ -1,6 +1,6 @@
 # Market Size, Audience and Track Signals
 
-Desk research, 14 November 2026.  
+Desk research, 14 November 2026.
 
 **What I checked:** DataTalksClub Academy, a full-time live online program, 15 seats, first cohort April 2027, two tracks (Agentic Engineering and AI Engineering), paid through a Bildungsgutschein after AZAV certification. Audience: developers in Berlin first, then in all of Germany, who were laid off, are job hunting or fear a layoff. Funnel: a free online session series and a waitlist on the landing page.
 

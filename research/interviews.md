@@ -1,6 +1,6 @@
 # Discovery Interviews (14 and 15 November 2026)
 
-On 14 November 2026 I posted in a large data science and jobs Telegram community and asked people to talk to me. Five people reached out. Here is what four people told me. 
+On 14 November 2026 I posted in a large data science and jobs Telegram community and asked people to talk to me. Five people reached out. Here is what four people told me.
 
  I do not promise job placement to anyone, and the course design uses "interview preparation" as the frame.
 

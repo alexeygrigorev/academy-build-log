@@ -1,6 +1,6 @@
 # Cost Justification for a Surcharge Above the B-DKS
 
-Research from 14 November 2026, for the course approval (Maßnahmezulassung). 
+Research from 14 November 2026, for the course approval (Maßnahmezulassung).
 
 **The question:** can real, documented costs justify a course price above the B-DKS for KldB 43414, up to the +25% cap that a certifier (FKS) can approve without BA consent?
 

@@ -13,7 +13,7 @@ The messaging brief was: "in Berlin tech, German is not the blocker; AI skills a
 1. A data scientist and former ML engineer in Berlin, working part-time at a startup and job hunting. She thinks LLMs, agents and RAG are in demand. The Agentur für Arbeit told her to improve her German rather than take extra qualification courses.
 2. A researcher from academia in machine learning, data science, modelling and optimization, reached through a data science community. She wants to move to industry and so far cannot, and moves between short academic contracts. Her impression: the Agentur is not interested in helping and prefers not to be bothered.
 
-My takeaway from the second conversation: many people write the same, so we should teach people how to get a Gutschein out of a Berater. That is an operator and session task, not a public guarantee.
+My takeaway from the second conversation: many people write the same, so we should teach people how to get a Gutschein out of a Berater.
 
 Possible audience segment, in addition to the core laid-off / at-risk developer persona: academia-to-industry ML.
 

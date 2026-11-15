@@ -1,6 +1,6 @@
 # AZAV Quality Management Handbook: First Draft
 
-Draft v0.2, 14 November 2026. The working draft is in German, because the certifier audits in German.  
+Draft v0.2, 14 November 2026. The working draft is in German, because the certifier audits in German.
 
 Change from v0.1: there is no second standing instructor. Substitution runs through contracted backup teachers; for the audit we need a CV and a written agreement for each. Mentors review projects.
 

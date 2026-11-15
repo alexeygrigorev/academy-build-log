@@ -4,7 +4,7 @@ I approved this plan on 15 November 2026. Updated the same day: German content i
 
 Action plan after two decisions: move to `datatalks.club/academy` and show both courses as existing programs with a waitlist, and use the instructor line "more than 100,000 students". Builds on [the domain and SEO plan](domain-and-seo-plan.md). No domain was purchased.
 
-Course page drafts, the approved instructor line, the approved program basis and the selected public testimonials live in our copy bank. The public testimonials are in [testimonials.md](testimonials.md).
+ The public testimonials are in [testimonials.md](testimonials.md).
 
 ## Priorities
 
@@ -95,15 +95,15 @@ Answers: what the academy is, who it's for (experienced developers, 2+ years), t
 
 ### Agentic Engineering, `/academy/agentic-engineering/` (English)
 
-Answers: what agentic engineering is (approved session wording), what the program is based on (approved wording), who it's for, what you'll build, modules including Introduction to AI Engineering and interview prep, format, waitlist, a short Bildungsgutschein line with a link to the German page.
+Answers: what agentic engineering is, what the program is based on, who it's for, what you'll build, modules including Introduction to AI Engineering and interview prep, format, waitlist, a short Bildungsgutschein line with a link to the German page.
 
 ### AI Engineering, `/academy/ai-engineering/` (English)
 
-Answers: what AI engineering is (approved session wording), what the program is based on (approved wording), who it's for, what you'll build, modules including the agentic cross-module and interview prep, format, waitlist, a short Bildungsgutschein line with a link to the German page.
+Answers: what AI engineering is, what the program is based on, who it's for, what you'll build, modules including the agentic cross-module and interview prep, format, waitlist, a short Bildungsgutschein line with a link to the German page.
 
 ### Sessions, `/academy/sessions/` (English)
 
-Answers: the three free evenings, dates, format, registration. Titles stay in the copy bank.
+Answers: the three free evenings, dates, format, registration.
 
 ### Bildungsgutschein guide, `/academy/bildungsgutschein/` (German, the only German page)
 
@@ -117,7 +117,7 @@ Answers: who it's for, duration, language, Berlin or online, waitlist, voucher (
 
 ## Posts, next six weeks
 
-All public copy starts from the copy bank. Draft first; nothing is posted or sent without my yes. Session titles below are approved. Posts are in English. There is no German blog post or German newsletter issue in this plan.
+   Posts are in English. There is no German blog post or German newsletter issue in this plan.
 
 | When (Europe/Berlin) | Channel | What it is |
 | --- | --- | --- |
@@ -138,7 +138,7 @@ When the certificates are in:
 
 - Put the Maßnahmenummer on the German Bildungsgutschein page.
 - List both measures on KURSNET and mein NOW. These are how many Berater and comparison sites discover a course.
-- Ask to be included on the comparison pages that already rank in the 15 November baseline (deinbildungsgutschein.de, WBS and Turing lists, and similar). 
+- Ask to be included on the comparison pages that already rank in the 15 November baseline (deinbildungsgutschein.de, WBS and Turing lists, and similar).
 - Re-run the three AI-search questions after the listings go up.
 
 ## How we track success

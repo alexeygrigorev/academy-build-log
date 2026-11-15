@@ -1,6 +1,6 @@
 # DataTalks.Club Academy Testimonials
 
-Public quotes for the academy course pages, collected 15 November 2026. Only quotes that people already published themselves are here (Maven reviews, GitHub and DataTalks.Club blog testimonials, LinkedIn posts). 
+Public quotes for the academy course pages, collected 15 November 2026. Only quotes that people already published themselves are here (Maven reviews, GitHub and DataTalks.Club blog testimonials, LinkedIn posts).
 
 How the tracks map:
 
@@ -317,7 +317,7 @@ Other public Maven reviews (not featured here): David, Alena, Manos, Vishnu, Moh
 | Email and Drive | 0 usable graduate testimonials | No testimonial form or feedback sheet turned up |
 | X | 0 strong review posts | Archive search found progress notes and DataTalks.Club announcements, not usable quotes |
 
-Rough public pool for page use: about 36 quotes (6 AI Dev Tools, 12 LLM Zoomcamp, 18 featured Buildcamp).  
+Rough public pool for page use: about 36 quotes (6 AI Dev Tools, 12 LLM Zoomcamp, 18 featured Buildcamp).
 
 ---
 

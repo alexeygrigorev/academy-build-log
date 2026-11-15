@@ -1,6 +1,6 @@
 # AZAV Certification Plan (Trägerzulassung and Maßnahmezulassung)
 
-Research from 14 November 2026, based on primary sources (laws, BA, Beirat, ZFU, certifier procedures, Berlin Senate). 
+Research from 14 November 2026, based on primary sources (laws, BA, Beirat, ZFU, certifier procedures, Berlin Senate).
 
 The question: how do we get DataTalksClub Academy certified so a Bildungsgutschein can pay for it? How long does it take, does an April 2027 start work, and which legal entity applies?
 

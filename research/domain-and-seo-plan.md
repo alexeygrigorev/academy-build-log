@@ -40,7 +40,7 @@ Practical differences in this case:
 What to do now:
 
 1. Keep `https://academy.datatalks.club/` as the live site through the Hireable With AI sessions.
-2. Add a clear link from the datatalks.club homepage, and from the relevant Zoomcamp blog posts, to the academy. Use the approved copy bank for the wording.
+2. Add a clear link from the datatalks.club homepage, and from the relevant Zoomcamp blog posts, to the academy.
 3. In Google Search Console, confirm there is a Domain property for datatalks.club (the DNS TXT records already exist; see Tools) and submit the academy sitemap. Do the same in Bing Webmaster Tools.
 4. After the sessions, decide whether to move to `datatalks.club/academy/` or stay on the subdomain. Either is acceptable. Do not run the same pages on both.
 5. Do not buy a domain until I say yes. If a brand domain is bought later, point it at the canonical academy URLs; do not build a second site on it.
@@ -55,7 +55,7 @@ If one domain is bought later as a redirect, these three are the shortlist. Pref
 - `datatalksacademy.com`: familiar TLD, cheaper to keep than .academy, slightly longer to say. Good if we also want a .com we control.
 - `datatalksacademy.de`: cheapest, useful for German searchers and Berater who type a .de. Needs a German administrative contact at many registrars.
 
-Trademark notes, not a legal opinion: `dtcacademy.com` has been registered since 2005, so “DTC Academy” as a standalone .com brand is a poor idea. `datatalks.com` was drop-caught in October 2026 and is sitting on Afternic; it is not a normal new-registration price. `datatalks.de` is already registered by someone else. Using “DataTalks.Club Academy” and a `datatalks.*` redirect extends the existing brand. 
+Trademark notes, not a legal opinion: `dtcacademy.com` has been registered since 2005, so “DTC Academy” as a standalone .com brand is a poor idea. `datatalks.com` was drop-caught in October 2026 and is sitting on Afternic; it is not a normal new-registration price. `datatalks.de` is already registered by someone else. Using “DataTalks.Club Academy” and a `datatalks.*` redirect extends the existing brand.
 
 ## SEO plan
 
@@ -97,11 +97,11 @@ Typical pages that do appear:
 - Turing College: a dedicated “AI Engineering … Bildungsgutschein” landing, in German and English, aimed at developers with at least a year of programming.
 - Ironhack, IfaDW, Syntax, MSIT, Cybersteps, Digitale Leute School, GFN and others: the same pattern, a course page plus a voucher page.
 
-What those pages have in common, and what we should copy in structure (not in wording): one URL per programme, a separate URL that explains the Bildungsgutschein in plain language, start dates, format, language, duration, and who the course is for. Several also keep a German and an English version. We will use the copy bank, we will not promise a job, and we will not put legal disclaimer blocks in the marketing text (those belong in the terms at purchase, per the 15 November copy rule).
+What those pages have in common, and what we should copy in structure (not in wording): one URL per programme, a separate URL that explains the Bildungsgutschein in plain language, start dates, format, language, duration, and who the course is for. Several also keep a German and an English version.
 
 ### Pages to build (on the canonical academy host)
 
-One page per intent, written in plain language, titles in Title Case. Start from the copy bank. Suggested set:
+One page per intent, written in plain language, titles in Title Case.  Suggested set:
 
 - Home, Agentic Engineering, AI Engineering, and Sessions (already live).
 - A Bildungsgutschein guide (English and German): what the voucher is, that AZAV certification is planned, how to prepare for the Berater conversation. No “we cannot guarantee” boilerplate in the marketing body; be concrete and honest.
@@ -129,7 +129,7 @@ For a real school, do the same things, and only those things:
 
 - Publish a few factual pages that answer the exact questions people ask, on the known DataTalks.Club property.
 - Write one public post on a property we already have (the DataTalks.Club blog, the newsletter, and a LinkedIn post). Say what the programme is, who it is for, when it starts, and how the voucher is supposed to work once AZAV is done.
-- Get listed in the official directories after certification (KURSNET, mein NOW), and on the comparison sites that already rank (the ones that appeared in today’s baselines: deinbildungsgutschein.de, WBS and Turing blog lists, and similar). 
+- Get listed in the official directories after certification (KURSNET, mein NOW), and on the comparison sites that already rank (the ones that appeared in today’s baselines: deinbildungsgutschein.de, WBS and Turing blog lists, and similar).
 - Repeat the three test questions in ChatGPT (browsing on), Perplexity, and Google AI Overviews about three weeks after the pages and the post are live, then again after AZAV listings go up.
 
 Do not buy reviews, do not spam Reddit, do not stand up a second brand that pretends to be older than it is.

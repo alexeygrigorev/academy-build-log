@@ -1,6 +1,6 @@
 # Academy Research
 
-This folder has the research I did for the DataTalks.Club Academy: a full-time AI program for experienced developers in Berlin, planned for April 2027.  
+This folder has the research I did for the DataTalks.Club Academy: a full-time AI program for experienced developers in Berlin, planned for April 2027.
 
 Most notes are from 13 to 15 November 2026. New research goes here as it happens.
 

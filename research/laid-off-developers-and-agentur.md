@@ -1,6 +1,6 @@
 # Laid-Off Developers, the Agentur and How Many We Can Reach
 
-Desk research, 14 November 2026. 
+Desk research, 14 November 2026.
 
 The question I asked: do experienced developers actually go to the Agentur für Arbeit after a layoff? What do they do instead? And how many of them can we really reach?
 
@@ -103,7 +103,7 @@ Middle case: 3,280 × 1.54 × 70% × 10% × 50% × 30% = 53. All factors except 
 1. Core of the sessions and the landing page: **experienced developers (2+ years) in Berlin who are job hunting, in their notice period or laid off**, plus **employed experienced developers who need to upskill for AI**. Both groups go in the hero. Beginners and career changers go to the free Zoomcamps.
 2. The Bildungsgutschein is a way to pay for the unemployed part of the audience (plus § 82 for employed people through their employer, and Transfergesellschaften in mass layoffs). It does not define the segment. We do not shout about it in ads. We explain it in the FAQ and in session 1.
 3. For the course decision we look at the signup form answers (situation and location): the share of "job hunting / laid off" in Berlin and interest in a long course. RSVPs or interest in agentic engineering alone are not buying demand.
-4. Free next checks: a special BA evaluation (training entries with a previous job in 434, Berlin, 2024 to 2026), and a call to the Berlin Bildungsberatung about an online voucher course. 
+4. Free next checks: a special BA evaluation (training entries with a previous job in 434, Berlin, 2024 to 2026), and a call to the Berlin Bildungsberatung about an online voucher course.
 
 ## 7. What this means for headlines and copy
 
