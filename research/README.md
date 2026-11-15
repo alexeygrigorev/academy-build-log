@@ -42,7 +42,7 @@ Most notes are from 13 to 15 November 2026. New research goes here as it happens
 - [marketing-plan.md](marketing-plan.md): the marketing plan until April 2027: funnel math, audience, AI answers, channels, targets and tracking.
 - [facebook-groups.md](facebook-groups.md): Facebook groups where I can tell experienced developers in Germany about the free Hireable With AI sessions.
 - [content-audit.md](content-audit.md): an audit of the academy content: the three free sessions, the academy pages, this log and the newsletter.
-- [article-plan.md](article-plan.md): eleven articles for search and AI answers, November 2026 to February 2027.
+- [article-plan.md](article-plan.md): 17 articles ranked by expected help to the waitlist, in two phases (low-key pages now, voucher guides after the AZAV certificate).
 - [competitor-keywords.md](competitor-keywords.md): what AI course providers in Germany rank for, domain authority, and the target searches.
 
 ## Related
