@@ -2,7 +2,7 @@
 
 I'm building DataTalks.Club Academy for experienced developers. This log records the decisions and the reasons behind them.
 
-[Read the build log](https://alexeygrigorev.github.io/academy-build-log/).
+[Read the build log](https://alexeygrigorev.com/academy-build-log/).
 
 Entries are in chronological order, newest last:
 
