@@ -32,6 +32,7 @@ Most notes are from 13 to 15 November 2026. New research goes here as it happens
 - [azav-cost-justification.md](azav-cost-justification.md): how to justify a course cost above the B-DKS.
 - [azav-qm-handbook.md](azav-qm-handbook.md): summary of the first draft of the quality management handbook.
 - [three-month-course-design.md](three-month-course-design.md): the design of the 3-month course.
+- [ai-engineering-data-module.md](ai-engineering-data-module.md): a data-side module for the AI Engineering track on ingestion, freshness and evaluation datasets.
 - [academy-competitor-nemusli.md](academy-competitor-nemusli.md): an online AVGS coaching provider that received AZAV in 2025 and closed in 2026.
 
 ## Website, SEO and AI Search
